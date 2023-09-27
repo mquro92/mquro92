@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mauro
+- 🌱 I’m currently learning python in school and I am really interested in learning how to code.
+- 📫 How to reach me:
+-     Discord: mquro
